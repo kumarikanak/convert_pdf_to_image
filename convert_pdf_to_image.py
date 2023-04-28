@@ -86,5 +86,5 @@ class ProcessAndConvertPdf:
 
 		
 
-ProcessAndConvertPdf("https://kuveramumbucket.s3.ap-south-1.amazonaws.com/store/kuvera_staging/digilocker/158131_aadhar.pdf").convert_pdf_to_jpg()
+ProcessAndConvertPdf("https://www.africau.edu/images/default/sample.pdf").convert_pdf_to_jpg()
 
